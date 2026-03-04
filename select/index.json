@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Let Me Love You",
+  "base_artist": "DJ Snake",
+  "createdAt": "2026-03-04T14:18:19.938484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let me love you (Let me love you)",
+      "artist": "NOMAD",
+      "has_synced": true,
+      "path": "select/01_Let_me_love_you_(Let_me_love_you)_NOMAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Love_You_Mario.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let Me Love You (Let Me Love You)",
+      "artist": "P1Harmony",
+      "has_synced": true,
+      "path": "select/03_Let_Me_Love_You_(Let_Me_Love_You)_P1Harmony.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "ThatMusicBrony",
+      "has_synced": true,
+      "path": "select/04_Let_Me_Love_You_ThatMusicBrony.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Charice",
+      "has_synced": false,
+      "path": "select/05_Let_Me_Love_You_Charice.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let me love you",
+      "artist": "Mario",
+      "has_synced": true,
+      "path": "select/06_Let_me_love_you_Mario.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "MARUV",
+      "has_synced": false,
+      "path": "select/07_Let_Me_Love_You_MARUV.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "has_synced": true,
+      "path": "select/08_Let_Me_Love_You_Mario.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "DJ Snake",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Love_You_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Strike",
+      "has_synced": false,
+      "path": "select/10_Let_Me_Love_You_Strike.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "has_synced": true,
+      "path": "select/11_Let_Me_Love_You_Mario.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Sheppard",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Love_You_Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "DAY6",
+      "has_synced": false,
+      "path": "select/13_Let_Me_Love_You_DAY6.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Schiller",
+      "has_synced": false,
+      "path": "select/14_Let_Me_Love_You_Schiller.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "李唯楓",
+      "has_synced": true,
+      "path": "select/15_Let_Me_Love_You_李唯楓.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Schiller",
+      "has_synced": true,
+      "path": "select/16_Let_Me_Love_You_Schiller.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Schiller",
+      "has_synced": true,
+      "path": "select/17_Let_Me_Love_You_Schiller.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let me love you",
+      "artist": "NOMAD",
+      "has_synced": true,
+      "path": "select/18_Let_me_love_you_NOMAD.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Eloy",
+      "has_synced": false,
+      "path": "select/19_Let_Me_Love_You_Eloy.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Let Me Love You Like A Woman",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/20_Let_Me_Love_You_Like_A_Woman_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/21_Let_Me_Love_You_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Ariana Grande feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/22_Let_Me_Love_You_Ariana_Grande_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "If You Let Me Love You",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/23_If_You_Let_Me_Love_You_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Let Me Love You One More Time",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/24_Let_Me_Love_You_One_More_Time_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Dj snake",
+      "has_synced": true,
+      "path": "select/25_Let_Me_Love_You_Dj_snake.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/26_Let_Me_Love_You_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Peter Murphy",
+      "has_synced": true,
+      "path": "select/27_Let_Me_Love_You_Peter_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Pusha T feat. Kelly Rowland",
+      "has_synced": true,
+      "path": "select/28_Let_Me_Love_You_Pusha_T_feat._Kelly_Rowland.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Let Me Love You (feat. Kelly Rowland)",
+      "artist": "Pusha T",
+      "has_synced": true,
+      "path": "select/29_Let_Me_Love_You_(feat._Kelly_Rowland)_Pusha_T.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Let Me Love You (Feat. Lil Wayne)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/30_Let_Me_Love_You_(Feat._Lil_Wayne)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Let Me Love U (Kurupt remix)",
+      "artist": "Mario",
+      "has_synced": true,
+      "path": "select/31_Let_Me_Love_U_(Kurupt_remix)_Mario.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Jennifer Paige",
+      "has_synced": false,
+      "path": "select/32_Let_Me_Love_You_Jennifer_Paige.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Schiller mit Kim Sanders",
+      "has_synced": true,
+      "path": "select/33_Let_Me_Love_You_Schiller_mit_Kim_Sanders.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Let Me Love You (mit Kim Sanders)",
+      "artist": "Schiller",
+      "has_synced": true,
+      "path": "select/34_Let_Me_Love_You_(mit_Kim_Sanders)_Schiller.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Let Me Love, Let Me Live",
+      "artist": "Aphrodite's Child",
+      "has_synced": true,
+      "path": "select/35_Let_Me_Love,_Let_Me_Live_Aphrodite's_Child.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Let Me Love You",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/36_Let_Me_Love_You_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me Love You",
+      "artist": "DJ Snake",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_Love_You_DJ_Snake.txt"
+    }
+  ]
+}
